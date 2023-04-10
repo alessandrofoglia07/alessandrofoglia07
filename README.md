@@ -1,5 +1,5 @@
 <h1 align="center">Hello everyone, I'm Alex 🪐</h1>
-<h3 align="center">A student who is currently learning about web development</h3>
+<h3 align="center">A student who is learning web development</h3>
 
 - 🌱 Currently studying **React.js, node.js**
 
