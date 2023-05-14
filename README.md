@@ -18,8 +18,8 @@
 </p>
 <br />
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alessandrofoglia07&" alt="alessandrofoglia07" /></p>
-
+<h4 align="center"> 🟦 Most used languages: </h4>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alessandrofoglia07&show_icons=true&locale=en&layout=compact" alt="alessandrofoglia07" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alessandrofoglia07&show_icons=true&locale=en" alt="alessandrofoglia07" /></p>
+<h4 align="center"> 📖 Github stats </h4>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alessandrofoglia07&" alt="alessandrofoglia07" /></p>
