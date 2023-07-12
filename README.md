@@ -2,11 +2,11 @@
 
 <h3 align="center">A student who is learning web development</h3>
 
-- 🌱 Currently studying **React, node.js**, all using **Typescript**.
+- 🌱 Currently studying **ReactJS, NodeJS**, all using **Typescript** 💙.
 
 - 📫 Get to know me: **alessandrofoglia07@gmail.com**
 
-- ❇️ Working on: **MyVibe**, my own social media project. Find all of the code here => <code>[Front-End](https://github.com/alessandrofoglia07/MyVibe-FE)</code> & <code>[Back-End](https://github.com/alessandrofoglia07/MyVibe-BE)</code>
+- ❇️ Working on: **nodejs-geolocation**, my first NodeJS library project. Find all of the code here => <code>[nodejs-geolocation repo](https://github.com/alessandrofoglia07/nodejs-geolocation)</code> <code>[npm package](https://www.npmjs.com/package/nodejs-geolocation)</code>
 
 ```
 // alex.ts
