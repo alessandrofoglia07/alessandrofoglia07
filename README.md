@@ -6,7 +6,7 @@
 
 - 📫 Get to know me: **alessandrofoglia07@gmail.com**
 
-- ❇️ Working on: **nodejs-geolocation**, my first NodeJS library project. Find all of the code here => <code>[nodejs-geolocation repo](https://github.com/alessandrofoglia07/nodejs-geolocation)</code> <code>[npm package](https://www.npmjs.com/package/nodejs-geolocation)</code>
+- ❇️ Working on: **LuxEdge**, a mock furniture e-commerce store. Find all of the code here => <code>[Front-end](https://github.com/alessandrofoglia07/LuxEdge-FE)</code> <code>[Back-end](https://github.com/alessandrofoglia07/LuxEdge-BE)</code>
 
 ```
 // alex.ts
