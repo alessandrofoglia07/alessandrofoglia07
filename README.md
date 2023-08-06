@@ -35,7 +35,9 @@ while (true) {
 </p>
 
 <h3 align="center"> Connect with me! </h3>
+
 - [Stack overflow](https://stackoverflow.com/users/21306952/alexxino)
+
 - [NPM](https://www.npmjs.com/~alessandrofoglia07)
 
 <h4 align="center"> 🟦 Most used languages: </h4>
