@@ -35,10 +35,8 @@ while (true) {
 </p>
 
 <h3 align="center"> Connect with me! </h3>
-<p align="center">
 - [Stack overflow](https://stackoverflow.com/users/21306952/alexxino)
 - [NPM](https://www.npmjs.com/~alessandrofoglia07)
-</p>
 
 <h4 align="center"> 🟦 Most used languages: </h4>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alessandrofoglia07&show_icons=true&locale=en&layout=compact" alt="alessandrofoglia07" /></p>
