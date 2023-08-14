@@ -11,7 +11,9 @@
 ```
 // alex.ts
 
-while (true) {
+let alive: boolean = true; 
+
+while (alive) {
     wakeUp();
     code();
     (async () => {
@@ -19,6 +21,8 @@ while (true) {
             await sleep();
         } catch (err) {
             console.log(`💤 Error occurred during sleep: ${err}`);
+            // Hopefully not soon 
+            alive = false;
         }
     })();
 }
