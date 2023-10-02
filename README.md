@@ -8,7 +8,9 @@
 
 - ❇️ Working on: **LuxEdge**, a mock furniture e-commerce store. Find all of the code here => <code>[Front-end](https://github.com/alessandrofoglia07/LuxEdge-FE)</code> <code>[Back-end](https://github.com/alessandrofoglia07/LuxEdge-BE)</code>
 
-- 🔥 Also check my favourite projects: <br> **LeafGPT**: <code>[Front-end](https://github.com/alessandrofoglia07/LeafGPT-FE)</code>  <code>[Back-end](https://github.com/alessandrofoglia07/LeafGPT-BE)</code> <br> **curse-filter**: <code>[Package repo](https://github.com/alessandrofoglia07/curse-filter)</code> <br> 🗺️ and my templates: <br> [Modern Node App](https://github.com/alessandrofoglia07/create-modern-node-app) <br> [Modern React PWA](https://github.com/alessandrofoglia07/create-modern-react-pwa)
+- 🧙‍♂️ If you are interested in web development, you will find [my blog](https://dev.to/alessandrofoglia07) interesting for sure!
+
+- 🔥 Also check some of my favourite projects: <br> **LeafGPT**: <code>[Front-end](https://github.com/alessandrofoglia07/LeafGPT-FE)</code>  <code>[Back-end](https://github.com/alessandrofoglia07/LeafGPT-BE)</code> <br> **curse-filter**: <code>[Package repo](https://github.com/alessandrofoglia07/curse-filter)</code> <br> 🗺️ and my templates: <br> [Modern Node App](https://github.com/alessandrofoglia07/create-modern-node-app) <br> [Modern React PWA](https://github.com/alessandrofoglia07/create-modern-react-pwa)
 
 ```
 // alex.ts
