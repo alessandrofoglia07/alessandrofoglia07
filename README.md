@@ -13,23 +13,22 @@
 - 🔥 Also check some of my favourite projects: <br> **LeafGPT**: <code>[Front-end](https://github.com/alessandrofoglia07/LeafGPT-FE)</code>  <code>[Back-end](https://github.com/alessandrofoglia07/LeafGPT-BE)</code> <br> **curse-filter**: <code>[Package repo](https://github.com/alessandrofoglia07/curse-filter)</code> <br> 🗺️ and my templates: <br> [Modern Node App](https://github.com/alessandrofoglia07/create-modern-node-app) <br> [Modern React PWA](https://github.com/alessandrofoglia07/create-modern-react-pwa)
 
 ```
-// alex.ts
-
-let alive: boolean = true; 
-
-while (alive) {
-    wakeUp();
-    code();
-    (async () => {
+const alex = async () => {
+    let alive = true;
+    while (alive) {
         try {
+            wakeUp();
+            code();
             await sleep();
-        } catch (err) {
+        } catch (err: unknown) {
             console.log(`💤 Error occurred during sleep: ${err}`);
-            // Hopefully not soon 
+            // Hopefully not soon
             alive = false;
         }
-    })();
-}
+    }
+};
+
+alex();
   ```
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
