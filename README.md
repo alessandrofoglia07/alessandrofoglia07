@@ -2,11 +2,9 @@
 
 <h3 align="center">A student who is learning web development</h3>
 
-- 🌱 Currently studying **ReactJS, NodeJS**, all using **Typescript** 💙.
+- 🌱 Currently studying **React.js, Node.js, and Next.js** all using **Typescript** 💙.
 
 - 📫 Get to know me: **alessandrofoglia07@gmail.com**
-
-- ❇️ Working on: **LuxEdge**, a mock furniture e-commerce store. Find all of the code here => <code>[Front-end](https://github.com/alessandrofoglia07/LuxEdge-FE)</code> <code>[Back-end](https://github.com/alessandrofoglia07/LuxEdge-BE)</code>
 
 - 🧙‍♂️ If you are interested in web development, you will find [my blog](https://dev.to/alessandrofoglia07) interesting for sure!
 
