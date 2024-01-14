@@ -4,7 +4,7 @@
 
 - 🌱 Currently studying **React.js, Node.js, and Next.js** all using **Typescript** 💙.
 
-- 🔥 Also check some of my favourite projects: <br> **LeafGPT**: <code>[Front-end](https://github.com/alessandrofoglia07/LeafGPT-FE)</code>  <code>[Back-end](https://github.com/alessandrofoglia07/LeafGPT-BE)</code> <br> **curse-filter**: <code>[Package repo](https://github.com/alessandrofoglia07/curse-filter)</code> <br> 🗺️ and my templates: <br> [Modern Node App](https://github.com/alessandrofoglia07/create-modern-node-app) <br> [Modern React PWA](https://github.com/alessandrofoglia07/create-modern-react-pwa)
+- 🔥 Check some of my favourite projects: <br> **LeafGPT**: <code>[Front-end](https://github.com/alessandrofoglia07/LeafGPT-FE)</code>  <code>[Back-end](https://github.com/alessandrofoglia07/LeafGPT-BE)</code> <br> **curse-filter**: <code>[Package repo](https://github.com/alessandrofoglia07/curse-filter)</code> <br> 🗺️ and my templates: <br> [Modern Node App](https://github.com/alessandrofoglia07/create-modern-node-app) <br> [Modern React PWA](https://github.com/alessandrofoglia07/create-modern-react-pwa)
 
 ```
 const alex = async () => {
