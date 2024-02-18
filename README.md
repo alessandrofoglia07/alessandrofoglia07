@@ -1,50 +1,51 @@
-<h1 align="center">Hello everyone, I'm Alex 🪐</h1>
+# Ciao! I'm [Alex](https://github.com/alessandrofoglia07) 👋🧙‍♂️
 
-<h3 align="center">A student who is learning web development</h3>
+I'm an Italian high school student passionate about web development 🇮🇹
 
-- 🌱 Currently studying **React.js, Node.js, and Next.js** all using **Typescript** 💙.
+Currently diving deep into the world of web technologies, you'll often find me tinkering with React.js or Next.js for frontend magic, while leveraging Node.js and Express.js for robust backend solutions. Constantly expanding my knowledge, I'm on a journey to master the intricacies of web development while exploring the possibilities of cloud computing with AWS.
 
-- 🔥 Check some of my favourite projects: <br> **LeafGPT**: <code>[Front-end](https://github.com/alessandrofoglia07/LeafGPT-FE)</code>  <code>[Back-end](https://github.com/alessandrofoglia07/LeafGPT-BE)</code> <br> **curse-filter**: <code>[Package repo](https://github.com/alessandrofoglia07/curse-filter)</code> <br> 🗺️ and my templates: <br> [Modern Node App](https://github.com/alessandrofoglia07/create-modern-node-app) <br> [Modern React PWA](https://github.com/alessandrofoglia07/create-modern-react-pwa)
+### ⚡ Tech Stack
 
-```
-const alex = async () => {
-    let alive = true;
-    while (alive) {
-        try {
-            wakeUp();
-            code();
-            await sleep();
-        } catch (err: unknown) {
-            console.log(`💤 Error occurred during sleep: ${err}`);
-            // Hopefully not soon
-            alive = false;
-        }
-    }
-};
+<code> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" height="40"/> 
+</code>
+<code> 
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" height="40"/> 
+</code> 
+<code> 
+    <img src="https://vectorified.com/images/express-js-icon-20.png" alt="expressjs" height="40" /> 
+</code>
+<code>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs" />
+</code>
+<code> 
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" height="40"/> 
+</code> 
+<code> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" height="40"/> 
+</code>
+<code> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" height="40"/> 
+</code> 
+<code> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" height="40"/> 
+</code>
 
-alex();
-  ```
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/alessandrofoglia07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="alessandrofoglia07" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21306952" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21306952" height="30" width="40" /></a>
-</p>
-<br>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-</p>
 <br><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alessandrofoglia07&show_icons=true&locale=en&layout=compact" alt="alessandrofoglia07" />
+
+| <img src="https://streak-stats.demolab.com?user=alessandrofoglia07&theme=react&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=500&locale=en" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alessandrofoglia07&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true" alt="alessandrofoglia07" /> |
+| ------------- | ------------- |
+
+<h6 align="right" style="color: rgba(150, 150, 150, 1)">Connect with me 📌</h6>
+<a href="https://dev.to/alessandrofoglia07"> 
+    <img align="right" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="alessandrofoglia07 | dev.to" height="30" /> 
+</a> 
+<a href="https://www.npmjs.com/~alessandrofoglia07">
+    <img align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="alessandrofoglia07 | npm" height="30">
+</a>
+<a href="https://stackoverflow.com/users/21306952/alexxino">
+    <img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="alessandrofoglia07 | stackoverflow" height="30" />
+</a>
+<a href="https://github.com/alessandrofoglia07">
+    <img align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="alessandrofoglia07 | github" height="30" />
+</a>
