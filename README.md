@@ -2,7 +2,7 @@
 
 I'm an Italian high school student passionate about web development 🇮🇹
 
-Currently diving deep into the world of web technologies, you'll often find me tinkering with **React.js** or **Next.js** for frontend magic, while leveraging **Node.js** and **Express.js** for robust backend solutions. Constantly expanding my knowledge, I'm on a journey to master the intricacies of web development while exploring the possibilities of cloud computing with **AWS**.
+Currently diving deep into the world of web technologies, you'll often find me tinkering with **React.js** or **Next.js** for frontend magic, while leveraging **Node.js**, **Express.js** and **serverless** for robust backend solutions. Constantly expanding my knowledge, I'm on a journey to master the intricacies of web development while exploring the possibilities of cloud computing with **AWS**.
 
 ### ⚡ Tech Stack
 
