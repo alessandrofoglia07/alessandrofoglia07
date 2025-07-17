@@ -2,7 +2,7 @@
 
 I'm an Italian high school student passionate about web development 🇮🇹
 
-Passionate about web development and cloud computing, I primarily work with **React.js** for frontend projects, occasionally diving into **Next.js**. On the backend, I utilize **Node.js** and the **Serverless Framework**, leveraging the power of **AWS** to build scalable solutions. Currently, I'm expanding my skillset by learning **C language** and deepening my knowledge of **cloud technologies**.
+Passionate about web development and cloud computing, I primarily work with **React.js** for frontend projects, occasionally diving into **Next.js**. On the backend, I utilize **Node.js** and the **Serverless Framework**, leveraging the power of **AWS** to build scalable solutions. 
 
 ### ⚡ Tech Stack
 
