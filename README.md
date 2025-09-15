@@ -2,20 +2,20 @@
 
 I'm an Italian high school student passionate about web development and cloud computing 🇮🇹
 
-Young dev, aspiring engineer and open source enthusiast - I primarily work with **React.js** for frontend projects, occasionally diving into **Next.js**. On the backend, I love using **Node.js** and the **Serverless Framework**, leveraging the power of **AWS** to build scalable solutions. <br /> While I'm a bit of a programming polyglot, **Typescript** will always be my comfort zone 💙.
+Young dev, aspiring engineer and open source enthusiast. <br> On the backend, I enjoy working with **Node.js** (**TypeScript**) and **Go**, building reliable and scalable systems. I use the **Serverless Framework** and **Terraform** to bring modern infrastructures to life on **AWS**, my go-to cloud provider. On the frontend, I like crafting interfaces with **React.js**, focusing on usability and performance.
 
 ### ⚡ Tech Stack
 
-<code>&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" height="40"/>&nbsp;</code>
-<code>&nbsp;<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" height="40"/>&nbsp;</code>
-<code>&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" height="40"/>&nbsp;</code>
-<code>&nbsp;<img src="https://raw.githubusercontent.com/serverless/artwork/master/icon-serverles-framework.png" alt="serverless" height="40"/>&nbsp;</code>
-<code>&nbsp;<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" height="40"/>&nbsp;</code>
-<code>&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" height="40"/>&nbsp;</code>
-<code>&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs" />&nbsp;</code>
-<code>&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" height="40"/>&nbsp;</code>
-<code>&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/go/go-original-wordmark.svg" alt="go" height="40"/>&nbsp;</code>
-<code>&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="40"/>&nbsp;</code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/go/go-original-wordmark.svg" alt="go" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/terraform/terraform-original.svg" alt="terraform" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/serverless/artwork/master/icon-serverles-framework.png" alt="serverless" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="40"/></code>
 
 <br><br>
 
