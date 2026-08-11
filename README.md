@@ -1,21 +1,22 @@
 # Ciao! I'm [Alex](https://github.com/alessandrofoglia07) 👋🧙‍♂️
 
-I'm an Italian high school student passionate about web development and cloud computing 🇮🇹
+I'm an Italian CompE student mostly into backend development, cloud computing, and figuring out how things work behind the scenes 🇮🇹
 
-Young dev, aspiring engineer and open source enthusiast. <br> On the backend, I enjoy working with **Node.js** (**TypeScript**) and **Go**, building reliable and scalable systems. I use the **Serverless Framework** and **Terraform** to bring modern infrastructures to life on **AWS**, my go-to cloud provider. On the frontend, I like crafting interfaces with **React.js**, focusing on usability and performance.
+Young dev, open source enthusiast, and a bit of a privacy nerd. <br> I spend most of my time with **Go** and **TypeScript**, building backend services and playing around with cloud architectures. I'm particularly interested in **system design**, **security**, and **distributed systems**, especially when it comes to understanding the trade-offs behind them.
+
+You'll often find me exploring **AWS** and **IaC**, usually with **Terraform**. I also like messing around with the **Serverless Framework** and whatever other tech rabbit hole I happen to fall into.
 
 ### ⚡ Tech Stack
 
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" height="40"/></code>
-<code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/go/go-original-wordmark.svg" alt="go" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/terraform/terraform-original.svg" alt="terraform" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/serverless/artwork/master/icon-serverles-framework.png" alt="serverless" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" height="40"/></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" height="40"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="40"/></code>
 
 <br><br>
 
